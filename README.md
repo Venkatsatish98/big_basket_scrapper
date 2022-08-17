@@ -3,8 +3,7 @@
 This is a small scrapper project where the product details from the bigbasket website has been scrapped with the python, selenium.
 
 
-'''
-Installation Requirements:
+## Installation Requirements
 
 beautifulsoup4
 
@@ -21,5 +20,3 @@ python-csv
 pandas
 
 requests
-
-'''
