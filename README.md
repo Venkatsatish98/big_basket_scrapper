@@ -24,12 +24,16 @@ requests
 Create an environment with python-3.7 version
 
 To create new conda environment run the following commands
+`
+conda create -p myenv python==3.7 -y
+`
+`
+conda activate myenv
+`
 
-`conda create -p myenv python==3.7 -y`
-
-'conda activate myenv'
-
-'pip install -r requirements.txt
+`
+pip install -r requirements.txt
+`
 
 After the installation of the above requirements in the environment, run 'python scrapper.py' in the terminal
 
