@@ -1,0 +1,8 @@
+beautifulsoup4
+selenium
+webdriver_manager
+regex
+openpyxl
+python-csv
+pandas
+requests
