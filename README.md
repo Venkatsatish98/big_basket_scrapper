@@ -21,7 +21,11 @@ pandas
 
 requests
 
+Create an environment with python-3.7 version
 
-After the installation of the above requirements, run 'python scrapper.py' in the terminal
+To create new conda environment run the following commands
+`conda create -n myenv python-3.7 y`
+
+After the installation of the above requirements in the environment, run 'python scrapper.py' in the terminal
 
 The toothpastes_final.xlsx file is generated when the command is executed successfully with the product details.
