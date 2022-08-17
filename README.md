@@ -24,9 +24,11 @@ requests
 Create an environment with python-3.7 version
 
 To create new conda environment run the following commands
+
 `
 conda create -p myenv python==3.7 -y
 `
+
 `
 conda activate myenv
 `
